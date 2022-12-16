@@ -3,7 +3,7 @@
 - CSS
 - JS
 
-Visualização do site: https://relogiodigitaldinamico.netlify.app/
+Visualização do projeto: https://relogiodigitaldinamico.netlify.app/
 <br><br>
 
 ## Screenshots
