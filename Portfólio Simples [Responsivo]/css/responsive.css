@@ -1,0 +1,63 @@
+@media (max-width:1200px){
+    main {
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .main-content {
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 15%;                                 /*distanciando no parte do fundo*/
+    }
+
+    main .main-content .text, .techs{
+        text-align: center;
+    }
+
+    main .main-content .text p{
+        width: 100%;
+        font-size: 0.9em;
+    }
+
+    main .techs .cards-container, .main-content .text{
+        margin-top: 32px;                                   /*distanciando o texto do título/cards do título*/
+    }
+}
+
+@media (max-width: 700px){
+    header {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+    header h1{
+        font-size: 2em;                                 /*diminuindo o tamanho do título*/
+    }
+
+    header nav{
+        margin-top: 24px;                                /*distanciando os elementos*/
+    }
+
+    header nav a {
+        font-size: 1em;                                  /*diminuindo o tamanho dos ícones*/
+    }
+
+    main .techs .cards-container .card{                  /*diminuindo o tamanho dos cards*/
+        width: 60px;
+        height: 60px;
+    }
+
+    main .main-content .text h2, .main-content .techs h2{
+        font-size: 1.8em;                                    /*diminuindo o tamanho dos títulos*/
+    }
+
+    main figure img{                                         /*diminuindo o tamanho do imagem*/
+        width: 250px;
+        height: 250px;
+    }
+}
