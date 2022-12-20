@@ -6,7 +6,7 @@ Nesse projeto aprendi:<br>
 • A posicionar elementos na página usando o flexbox;<br>
 • A usar as propriedades do flexbox;<br>
 
-Visualização do projeto: https://portifoliosimples.netlify.app/
+Visualização do site: https://portifoliosimples.netlify.app/
 
 ## Screenshots
 
