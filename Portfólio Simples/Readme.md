@@ -11,5 +11,5 @@ Visualização do site: https://portifoliosimples.netlify.app/
 ## Screenshots
 
 <p align="center">
-  <img src="screenshot.do.projeto.png" align="center"></img>
+  <img src="screenshot.do.projeto1.png" align="center"></img>
 </p>
