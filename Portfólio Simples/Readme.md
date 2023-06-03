@@ -1,4 +1,4 @@
-## # Portfólio Simples utilizando Flexbox [Sem Responsividade]
+## Portfólio Simples utilizando Flexbox [Sem Responsividade]
 <br>
 <p align="center">
   <img src="screenshot.do.projeto.png"></img>
