@@ -1,5 +1,5 @@
-# Criando um Header com Flexbox 
-
+## Criando um Header com Flexbox 
+<br>
 <p align="center">
   <img src="screenshot.do.projeto.png" align="center"></img>
 </p>
@@ -15,8 +15,8 @@ Nesse projeto aprendi:
 • E pratiquei a responsividade usando o flexbox;
 <br>
 
-### Tecnologias utilizadas:
-<hr>
+### Tecnologias utilizadas:<hr>
+<br>
 <div align="center">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
